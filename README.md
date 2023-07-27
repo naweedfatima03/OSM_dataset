@@ -1,2 +1,2 @@
 # OSM_dataset
-Different categories fir UGSs extracted from Open Street Maps
+Different categories frr UGSs extracted from Open Street Maps
